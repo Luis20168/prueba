@@ -1,0 +1,18 @@
+1:
+git init 
+git add ()
+git commit .m "comment"
+
+2: crear una rama
+
+git branch (saber en cual rama esta)
+git checkout -b ramatal  (crear una rama)
+
+git checkout nombre rama (cambiar de rama)
+
+git merge nombre de la rama (esto es para guardar cammbios en la rama principal) antes de eso toca ubicarse en la rama que se quiere hacer el cammbio
+
+
+
+
+
